@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.*
+
+# Credentials
+hackathon-key-4e932c625948.json
+
+# Temporary files
+*.jpg
+*.mp4
+*.wav
+*.txt
+
+# macOS
+.DS_Store
