@@ -13,3 +13,5 @@ hackathon-key-4e932c625948.json
 
 # macOS
 .DS_Store
+.env
+.env
